@@ -1,0 +1,10 @@
+../Core/Src/system_data.c:46:21:system_data_init	8	static
+../Core/Src/system_data.c:52:28:system_data_save_flash	8	static
+../Core/Src/system_data.c:59:21:system_data_get_reminder	24	static
+../Core/Src/system_data.c:65:21:system_data_get_theme_color	16	static
+../Core/Src/system_data.c:71:21:system_data_get_type_clock	16	static
+../Core/Src/system_data.c:77:21:system_data_get_high_score	16	static
+../Core/Src/system_data.c:83:21:system_data_set_reminder	16	static
+../Core/Src/system_data.c:90:21:system_data_set_theme_color	16	static
+../Core/Src/system_data.c:97:21:system_data_set_type_clock	16	static
+../Core/Src/system_data.c:104:21:system_data_set_high_score	16	static

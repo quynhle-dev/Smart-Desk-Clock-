@@ -1,0 +1,6 @@
+cbuffer.c:3:6:cb_init	2
+cbuffer.c:14:6:cb_clear	1
+cbuffer.c:21:10:cb_read	5
+cbuffer.c:62:10:cb_write	5
+cbuffer.c:98:10:cb_data_count	5
+cbuffer.c:125:10:cb_space_count	1

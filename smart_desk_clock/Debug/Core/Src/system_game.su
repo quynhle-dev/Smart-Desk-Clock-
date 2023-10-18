@@ -1,0 +1,2 @@
+../Core/Src/system_game.c:48:21:system_game_init	8	static
+../Core/Src/system_game.c:56:21:system_game_run	48	static

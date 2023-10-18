@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm4.h:1724:22:__NVIC_DisableIRQ	16	static,ignoring_inline_asm
+../Core/Src/bsp_uart.c:52:6:bsp_uart_set_callback_handle_rx_data	16	static
+../Core/Src/bsp_uart.c:57:6:bsp_uart_set_callback_bootloader_command	16	static
+../Core/Src/bsp_uart.c:62:6:bsp_uart_set_callback_bootloader_error	16	static
+../Core/Src/bsp_uart.c:68:6:bsp_uart_init	8	static
+../Core/Src/bsp_uart.c:73:6:bsp_uart_printf	16	static
+../Core/Src/bsp_uart.c:78:6:bsp_uart1_printf	16	static
+../Core/Src/bsp_uart.c:83:6:bsp_uart_printf_len	24	static
+../Core/Src/bsp_uart.c:88:6:bsp_uart_receive_to_idle_dma	24	static
+../Core/Src/bsp_uart.c:99:6:bsp_uart_dma_unregister_callback	16	static
+../Core/Src/bsp_uart.c:104:6:bsp_uart_deinit_peripheral	8	static
+../Core/Src/bsp_uart.c:114:6:bsp_uart_handle_data	24	static
+../Core/Src/bsp_uart.c:169:6:HAL_UARTEx_RxEventCallback	16	static

@@ -1,0 +1,6 @@
+../Core/Src/middleware/cbuffer.c:3:6:cb_init	24	static
+../Core/Src/middleware/cbuffer.c:14:6:cb_clear	16	static
+../Core/Src/middleware/cbuffer.c:21:10:cb_read	32	static
+../Core/Src/middleware/cbuffer.c:62:10:cb_write	32	static
+../Core/Src/middleware/cbuffer.c:98:10:cb_data_count	24	static
+../Core/Src/middleware/cbuffer.c:125:10:cb_space_count	24	static

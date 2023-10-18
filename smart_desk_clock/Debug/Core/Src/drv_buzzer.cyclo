@@ -1,0 +1,9 @@
+drv_buzzer.c:65:6:drv_buzzer_init	1
+drv_buzzer.c:73:6:drv_buzzer_on	1
+drv_buzzer.c:78:6:drv_buzzer_volume	1
+drv_buzzer.c:85:6:drv_buzzer_blink	1
+drv_buzzer.c:100:6:drv_buzzer_music	2
+drv_buzzer.c:116:6:drv_buzzer_off	1
+drv_buzzer.c:125:13:drv_buzzer_make_tone	2
+drv_buzzer.c:142:13:drv_buzzer_notone	1
+drv_buzzer.c:147:6:bsp_tim4_handle	25

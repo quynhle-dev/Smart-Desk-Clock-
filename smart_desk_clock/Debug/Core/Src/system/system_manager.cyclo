@@ -1,0 +1,3 @@
+system_manager.c:56:23:system_manager_check_state	35
+system_manager.c:153:24:system_manager_init	1
+system_manager.c:168:24:system_manager_run	16

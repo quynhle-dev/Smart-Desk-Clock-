@@ -1,0 +1,8 @@
+../Core/Src/system/system_diagnostic.c:41:27:system_diagnostic_init	4	static
+../Core/Src/system/system_diagnostic.c:46:27:system_diagnostic_screen	16	static
+../Core/Src/system/system_diagnostic.c:64:27:system_diagnostic_realtime	16	static
+../Core/Src/system/system_diagnostic.c:82:27:system_diagnostic_temp_sensor	16	static
+../Core/Src/system/system_diagnostic.c:100:27:system_diagnostic_button	24	static
+../Core/Src/system/system_diagnostic.c:177:27:system_diagnostic_led_rgb	16	static
+../Core/Src/system/system_diagnostic.c:204:27:system_diagnostic_buzzer	48	static
+../Core/Src/system/system_diagnostic.c:259:27:system_diagnostic_handle	16	static

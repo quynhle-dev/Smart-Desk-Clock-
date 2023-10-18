@@ -1,0 +1,13 @@
+../Core/Src/bsp_flash.c:32:6:bsp_flash_unlock	4	static
+../Core/Src/bsp_flash.c:38:9:bsp_get_sector_from_address	24	static
+../Core/Src/bsp_flash.c:60:10:bsp_get_address_from_sector	24	static
+../Core/Src/bsp_flash.c:82:20:bsp_flash_erase	24	static
+../Core/Src/bsp_flash.c:131:20:bsp_flash_write	32	static
+../Core/Src/bsp_flash.c:179:20:bsp_flash_read	32	static
+../Core/Src/bsp_flash.c:195:20:bsp_flash_write_erase	32	static
+../Core/Src/bsp_flash.c:257:20:bsp_flash_write_float	24	static
+../Core/Src/bsp_flash.c:266:20:bsp_flash_read_float	24	static
+../Core/Src/bsp_flash.c:275:20:bsp_flash_write_multi_float	64	dynamic
+../Core/Src/bsp_flash.c:289:20:bsp_flash_read_multi_float	64	dynamic
+../Core/Src/bsp_flash.c:301:20:bsp_flash_write_struct	16	static
+../Core/Src/bsp_flash.c:308:20:bsp_flash_read_struct	16	static

@@ -1,0 +1,9 @@
+../Core/Src/middleware/snake_game.c:24:6:mdv_snake_food_random	24	static
+../Core/Src/middleware/snake_game.c:38:6:mdv_snake_move	32	static
+../Core/Src/middleware/snake_game.c:81:6:mdv_snake_check_gameover	16	static
+../Core/Src/middleware/snake_game.c:127:6:mdv_snake_check_food	16	static
+../Core/Src/middleware/snake_game.c:143:6:mdv_snake_check_button	16	static
+../Core/Src/middleware/snake_game.c:171:6:mdv_snake_clear_map	24	static
+../Core/Src/middleware/snake_game.c:182:6:mdv_snake_map_mode	56	static
+../Core/Src/middleware/snake_game.c:292:6:mdv_snake_win	16	static
+../Core/Src/middleware/snake_game.c:301:6:mdv_snake_grid_init	16	static

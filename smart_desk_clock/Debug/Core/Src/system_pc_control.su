@@ -1,0 +1,16 @@
+../Core/Src/system_pc_control.c:49:16:str_to_byte	24	static
+../Core/Src/system_pc_control.c:58:13:system_pc_check_year	24	static
+../Core/Src/system_pc_control.c:68:13:system_pc_check_month	24	static
+../Core/Src/system_pc_control.c:78:13:system_pc_check_day	24	static
+../Core/Src/system_pc_control.c:88:13:system_pc_check_hour	24	static
+../Core/Src/system_pc_control.c:98:13:system_pc_check_min	24	static
+../Core/Src/system_pc_control.c:108:13:system_pc_check_sec	24	static
+../Core/Src/system_pc_control.c:118:13:system_pc_check_space	16	static
+../Core/Src/system_pc_control.c:126:13:system_pc_check_command_set_time	16	static
+../Core/Src/system_pc_control.c:137:13:system_pc_reset_command_array	16	static
+../Core/Src/system_pc_control.c:145:6:system_pc_control_reset	4	static
+../Core/Src/system_pc_control.c:150:27:system_pc_control_init	8	static
+../Core/Src/system_pc_control.c:156:27:system_pc_control_set_time	24	static
+../Core/Src/system_pc_control.c:200:27:system_pc_control_set_reminder	24	static
+../Core/Src/system_pc_control.c:242:27:system_pc_control_set_theme	16	static
+../Core/Src/system_pc_control.c:286:27:system_pc_control_handle	16	static

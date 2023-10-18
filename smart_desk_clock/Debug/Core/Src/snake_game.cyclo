@@ -1,0 +1,9 @@
+snake_game.c:20:6:mdv_snake_food_random	2
+snake_game.c:34:6:mdv_snake_move	4
+snake_game.c:77:6:mdv_snake_check_gameover	13
+snake_game.c:123:6:mdv_snake_check_food	2
+snake_game.c:147:6:mdv_snake_check_button	9
+snake_game.c:175:6:mdv_snake_clear_map	3
+snake_game.c:186:6:mdv_snake_map_mode	21
+snake_game.c:296:6:mdv_snake_win	2
+snake_game.c:305:6:mdv_snake_grid_init	1

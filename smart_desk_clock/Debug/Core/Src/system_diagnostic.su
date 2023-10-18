@@ -1,0 +1,13 @@
+../Core/Src/system_diagnostic.c:30:27:system_diagnostic_init	4	static
+../Core/Src/system_diagnostic.c:35:27:system_diagnostic_screen	16	static
+../Core/Src/system_diagnostic.c:53:27:system_diagnostic_realtime	16	static
+../Core/Src/system_diagnostic.c:71:27:system_diagnostic_temp_sensor	16	static
+../Core/Src/system_diagnostic.c:89:27:system_diagnostic_button	24	static
+../Core/Src/system_diagnostic.c:166:27:system_diagnostic_led_rgb	16	static
+../Core/Src/system_diagnostic.c:193:27:system_diagnostic_buzzer	16	static
+../Core/Src/system_diagnostic.c:220:27:system_diagnostic_type_clock	32	static,ignoring_inline_asm
+../Core/Src/system_diagnostic.c:271:27:system_diagnostic_theme_color	32	static,ignoring_inline_asm
+../Core/Src/system_diagnostic.c:323:27:system_diagnostic_set_time	16	static
+../Core/Src/system_diagnostic.c:329:27:system_diagnostic_set_reminder	16	static
+../Core/Src/system_diagnostic.c:335:27:system_diagnostic_time_down	16	static
+../Core/Src/system_diagnostic.c:341:27:system_diagnostic_handle	16	static
