@@ -1,6 +1,0 @@
-drv_led_rgb.c:42:6:drv_led_init	1
-drv_led_rgb.c:50:6:drv_led_off	1
-drv_led_rgb.c:58:6:drv_led_set_color	1
-drv_led_rgb.c:71:6:drv_led_blink_color	1
-drv_led_rgb.c:77:6:drv_led_fade_in_fade_out	1
-drv_led_rgb.c:82:6:bsp_tim3_handle	14

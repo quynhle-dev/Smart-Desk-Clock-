@@ -4,7 +4,7 @@
  * @license    This project is released under the QuyLe License.
  * @version    major.minor.patch
  * @date       2023-08-25
- * @author     quyle-itr-intern
+ * @author     quyle-intern
  *
  * @brief      system display
  *
@@ -603,7 +603,7 @@ system_display_error_t system_display_snake_game_info()
     drv_ssd1306_puts((uint8_t *) "About:Snake eat food", &font_6x8, DRV_SSD1306_COLOR_WHITE);
 
     drv_ssd1306_goto_xy(0, 20);
-    drv_ssd1306_puts((uint8_t *) "Producer: ITR VN", &font_6x8, DRV_SSD1306_COLOR_WHITE);
+    drv_ssd1306_puts((uint8_t *) "Producer: VN", &font_6x8, DRV_SSD1306_COLOR_WHITE);
 
     drv_ssd1306_goto_xy(0, 30);
     drv_ssd1306_puts((uint8_t *) "Author:Quynh,Quy,Hieu", &font_6x8, DRV_SSD1306_COLOR_WHITE);

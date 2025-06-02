@@ -4,7 +4,7 @@
  * @license    This project is released under the QuyLe License.
  * @version    1.0.0
  * @date       2023-08-19
- * @author     quyle-itr-intern
+ * @author     quyle-intern
  *
  * @brief      handle i2c
  *

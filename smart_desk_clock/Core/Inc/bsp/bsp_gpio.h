@@ -4,7 +4,7 @@
  * @license    This project is released under the QuyLe License.
  * @version    v1.0.0
  * @date       2023-08-20
- * @author     quyle-itr-intern
+ * @author     quyle-intern
  *
  * @brief      handle gpio
  *

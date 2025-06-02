@@ -1,3 +1,0 @@
-../Core/Src/drv_cjmcu75.c:28:6:cjmcu75_init	16	static
-../Core/Src/drv_cjmcu75.c:36:6:cjmcu75_check_ready	16	static
-../Core/Src/drv_cjmcu75.c:41:8:cjmcu75_get_temp	32	static

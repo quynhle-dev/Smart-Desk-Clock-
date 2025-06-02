@@ -1,5 +1,0 @@
-drv_uart.c:33:18:drv_uart_init	1
-drv_uart.c:39:18:drv_uart_printf	1
-drv_uart.c:45:18:drv_uart_receive	1
-drv_uart.c:50:10:drv_uart_num_unread_cb_data	1
-drv_uart.c:55:18:drv_uart_read_cb_data	1

@@ -1,3 +1,0 @@
-../Core/Src/system_manager.c:56:23:system_manager_check_state	16	static
-../Core/Src/system_manager.c:153:24:system_manager_init	8	static
-../Core/Src/system_manager.c:168:24:system_manager_run	24	static

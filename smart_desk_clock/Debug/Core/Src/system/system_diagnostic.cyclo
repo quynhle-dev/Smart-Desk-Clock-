@@ -1,8 +1,0 @@
-system_diagnostic.c:41:27:system_diagnostic_init	1
-system_diagnostic.c:46:27:system_diagnostic_screen	2
-system_diagnostic.c:64:27:system_diagnostic_realtime	2
-system_diagnostic.c:82:27:system_diagnostic_temp_sensor	2
-system_diagnostic.c:100:27:system_diagnostic_button	13
-system_diagnostic.c:177:27:system_diagnostic_led_rgb	2
-system_diagnostic.c:204:27:system_diagnostic_buzzer	8
-system_diagnostic.c:259:27:system_diagnostic_handle	7

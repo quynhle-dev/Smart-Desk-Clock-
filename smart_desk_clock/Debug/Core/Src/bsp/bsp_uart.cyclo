@@ -1,8 +1,0 @@
-bsp_uart.c:46:6:bsp_uart_init	1
-bsp_uart.c:51:6:bsp_uart_printf	1
-bsp_uart.c:56:6:bsp_uart_printf_len	1
-bsp_uart.c:61:6:bsp_uart_receive_to_idle_dma	2
-bsp_uart.c:72:6:bsp_uart_dma_unregister_callback	1
-bsp_uart.c:77:6:bsp_uart_deinit_peripheral	1
-bsp_uart.c:83:6:bsp_uart_handle_data	7
-bsp_uart.c:138:6:HAL_UARTEx_RxEventCallback	1

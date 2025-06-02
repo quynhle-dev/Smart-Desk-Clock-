@@ -1,3 +1,0 @@
-../Core/Src/bsp_button.c:40:13:bsp_button_init_one_button	24	static
-../Core/Src/bsp_button.c:53:6:bsp_button_init	16	static
-../Core/Src/bsp_button.c:68:16:bsp_button_check_state_one_button	32	static

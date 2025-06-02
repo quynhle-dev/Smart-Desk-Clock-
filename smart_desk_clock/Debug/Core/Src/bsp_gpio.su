@@ -1,3 +1,0 @@
-../Core/Src/bsp_gpio.c:31:6:bsp_gpio_set_pin	16	static
-../Core/Src/bsp_gpio.c:36:6:bsp_gpio_reset_pin	16	static
-../Core/Src/bsp_gpio.c:41:6:bsp_gpio_read_pin	16	static

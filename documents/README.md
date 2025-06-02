@@ -4,14 +4,12 @@
 
 <p align="center">
     <a href="[./LICENSE](https://www.iso.org/standard/27001)"><img src="https://img.shields.io/badge/license-ISO%2027001-dfd.svg"></a>
-    <a href="https://github.com/vyluu-itr/07-2023-itr-intern-group-2/tree/release/0.1.0"><img src="https://img.shields.io/badge/release-v1.2.1-blue"></a>
+    <a href=""><img src="https://img.shields.io/badge/release-v1.2.1-blue"></a>
     <a href=""><img src="https://img.shields.io/badge/language-C/C++-aff.svg"></a>
     <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://img.shields.io/badge/ide-STM32CubeIDE-pink.svg"></a>
-    <a href="https://itrvn.com/"><img src="https://img.shields.io/badge/source-ITR%20VN-yel.svg"></a>
-
 </p>
 
-Smart Desk Clock is [ITR VN](https://itrvn.com/)'s next generation product that brings smart solutions to manage time and provide entertainment services available on the device
+Smart Desk Clock is our next generation product that brings smart solutions to manage time and provide entertainment services available on the device
 
 ## Learn More about Smart Desk Clock 
  <p align="center">
@@ -60,7 +58,7 @@ The SmartDeskClock includes Includes new capabilities such as:
 6. Read our [release note](./RELEASE_NOTE.md) for more details and Look forward to other exciting features in the future . 
 
 ## Usage
-1. Clone the project repository from [GitHub ↗](https://github.com/vyluu-itr/07-2023-itr-intern-group-2/tree/main/final_project).
+1. Clone the project repository from [GitHub ↗](https://github.com/quynhle-dev/Smart-Desk-Clock-).
 2. Set up your development environment with the required IDE (STM32CubeIDE) and toolchain and open the project in the chosen IDE.
 3. Read our [diagram](./wire_connection.png) to connect the necessary peripherals or sensors to the STM32 microcontroller.
 4. Deploy the firmware to the STM32 microcontroller using the appropriate flashing method (e.g., ST-Link, DFU, or bootloader).
@@ -76,7 +74,7 @@ We welcome contributions to this project! To ensure a smooth contribution proces
 6. Create a Pull Request with a detailed description of the changes you have made.
 7. Wait for feedback and make any requested changes from the code reviewer.
 8. Once your Pull Request is approved, thank you for your contribution and support!
-* **Note**: Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's [GitHub repository](https://github.com/vyluu-itr/07-2023-itr-intern-group-2/tree/main/final_project) or contact us [ITR VN](https://itrvn.com/).
+* **Note**: Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the project's [GitHub repository](https://github.com/quynhle-dev/Smart-Desk-Clock-) or contact us [quynh-dev](https://github.com/quynhle-dev).
 
 ## License
 This project is licensed under the [ISO/27001 License](https://www.iso.org/standard/27001). Please see the LICENSE file for more details.

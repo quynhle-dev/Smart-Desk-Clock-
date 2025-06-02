@@ -1,9 +1,0 @@
-../Core/Src/drv_buzzer.c:65:6:drv_buzzer_init	8	static
-../Core/Src/drv_buzzer.c:73:6:drv_buzzer_on	8	static
-../Core/Src/drv_buzzer.c:78:6:drv_buzzer_volume	16	static
-../Core/Src/drv_buzzer.c:85:6:drv_buzzer_blink	16	static
-../Core/Src/drv_buzzer.c:100:6:drv_buzzer_music	16	static
-../Core/Src/drv_buzzer.c:116:6:drv_buzzer_off	8	static
-../Core/Src/drv_buzzer.c:125:13:drv_buzzer_make_tone	24	static
-../Core/Src/drv_buzzer.c:142:13:drv_buzzer_notone	8	static
-../Core/Src/drv_buzzer.c:147:6:bsp_tim4_handle	8	static
